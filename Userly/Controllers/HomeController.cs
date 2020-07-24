@@ -26,12 +26,5 @@ namespace Userly.Controllers
 
             return View();
         }
-
-        public ActionResult Users()
-        {
-            ViewBag.Message = "All users created in this application";
-
-            return View();
-        }
     }
 }
