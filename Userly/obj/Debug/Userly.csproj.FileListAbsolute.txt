@@ -77,3 +77,4 @@ D:\Tutotrials\AspNet\userly\Userly\obj\Debug\Userly.csproj.CoreCompileInputs.cac
 D:\Tutotrials\AspNet\userly\Userly\obj\Debug\Userly.csproj.CopyComplete
 D:\Tutotrials\AspNet\userly\Userly\obj\Debug\Userly.dll
 D:\Tutotrials\AspNet\userly\Userly\obj\Debug\Userly.pdb
+D:\Tutotrials\AspNet\userly\Userly\bin\Models\Book.cs
